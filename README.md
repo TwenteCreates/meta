@@ -6,7 +6,7 @@ This repo contains the SVG icon and logo for Twente Creates, the set of hackatho
 
 - [Anand Chowdhary](https://anandchowdhary.com)
 - [Alex Imbrea](http://aleximbrea.com)
-- [Maurits van der Vijgh](https://github.com/mauritsvdvijgh)
+- [Maurits van der Vijgh](http://vandervijgh.it)
 - [Mohit Ahuja](https://ahujamoh.com)
 
 ## 📄 License
