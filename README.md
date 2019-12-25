@@ -4,10 +4,7 @@ This repo contains the SVG icon and logo for Twente Creates, the set of hackatho
 
 ## 👥 Current and former team
 
-- [Anand Chowdhary](https://anandchowdhary.com)
-- [Alex Imbrea](http://aleximbrea.com)
-- [Maurits van der Vijgh](http://vandervijgh.it)
-- [Mohit Ahuja](https://ahujamoh.com)
+[![Profile pictures of members on GitHub](https://services.anandchowdhary.now.sh/api/github-members?org=twente-creates)](https://github.com/orgs/twente-creates/people)
 
 ## 📄 License
 
