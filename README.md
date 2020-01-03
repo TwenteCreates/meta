@@ -1,10 +1,10 @@
-![Twente Creates](https://raw.githubusercontent.com/c-r-e-a-t-e/meta/master/combined-mark-outlines.svg?sanitize=true)
+![Twente Creates](https://raw.githubusercontent.com/TwenteCreates/meta/master/combined-mark-outlines.svg?sanitize=true)
 
 This repo contains the SVG icon and logo for Twente Creates, the set of hackathon project lead by [Anand Chowdhary](https://anandchowdhary.com) and friends from the [University of Twente](https://utwente.nl/en) in Enschede, the Netherlands.
 
 ## 👥 Current and former team
 
-[![Profile pictures of members on GitHub](https://services.anandchowdhary.now.sh/api/github-members?org=twente-creates)](https://github.com/orgs/twente-creates/people)
+[![Profile pictures of members on GitHub](https://services.anandchowdhary.now.sh/api/github-members?org=TwenteCreates)](https://github.com/orgs/TwenteCreates/people)
 
 ## 📄 License
 
